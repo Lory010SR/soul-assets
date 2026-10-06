@@ -1,0 +1,21 @@
+{
+  "versione_launcher": "1.0.0",
+  "giochi": [
+    {
+      "id": "ut_kindred_spirits_it",
+      "titolo": "Undertale: Kindred Spirits",
+      "versione_gioco": "1.0.0",
+      "descrizione": "Unisciti alle anime della Perseveranza e dell'Integrità in questo prequel crossover. Sperimenta un sistema di combattimento a turni alternati unico nel suo genere, interamente tradotto in italiano!",
+      "url_icona": "https://githubusercontent.com",
+      "url_logo": "https://githubusercontent.com",
+      "url_banner": "https://githubusercontent.com",
+      "url_trailer": "https://youtube.com",
+      "url_download": "https://github.com",
+      "crediti": {
+        "sviluppo_originale": "Purrsum & Team Kindred Spirits",
+        "link_originale": "https://gamejolt.com",
+        "traduzione_italiana": "Lory010SR"
+      }
+    }
+  ]
+}
